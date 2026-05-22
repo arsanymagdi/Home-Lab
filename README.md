@@ -36,18 +36,18 @@
 
 # Hardware Chart
 
-| Device | Purpose | Keep/Buy | Notes |
-| --- | --- | --- | --- |
-| TP-Link ER605 | Main router/firewall | Buy | Main DHCP + routing |
-| TP-Link ES208G | Main switch | Buy | Omada easy managed switch |
-| TP-Link EAP115 V4 | Main Wi-Fi AP | Buy | Omada AP with VLAN SSIDs |
-| Compaq Presario CQ57 | Main homelab server | Keep | Debian + Docker server |
-| ZTE H188A | ISP modem | Keep | Bridge mode |
-| HP LaserJet 1010 | Network printer | Keep | Shared using CUPS |
-| IKEA LACK table | Rack structure | Buy | DIY rack |
-| External HDD/SSD | NAS storage | Later | Recommended |
-| UPS | Power backup | Later | APC preferred |
-| USB Gigabit Adapter | Faster networking | Optional | If CQ57 only has Fast Ethernet |
+| Device | Purpose | Notes |
+| --- | --- | --- |
+| TP-Link ER605 | Main router/firewall |Main DHCP + routing |
+| TP-Link ES208G | Main switch | Omada easy managed switch |
+| TP-Link EAP115 V4 | Main Wi-Fi AP | Omada AP with VLAN SSIDs |
+| Compaq Presario CQ57 | Main homelab server | Debian + Docker server |
+| ZTE H188A | ISP modem | Bridge mode |
+| HP LaserJet 1010 | Network printer | Shared using CUPS |
+| IKEA LACK table | Rack structure | DIY rack |
+| External HDD/SSD | NAS storage | Recommended |
+| UPS | Power backup | APC preferred |
+| USB Gigabit Adapter | Faster networking | If CQ57 only has Fast Ethernet |
 
 ---
 
